@@ -1081,7 +1081,7 @@ a {
 .plans-page .plan.green .top {
     outline: 3px solid var(--green-color);
 }
-.plans-page .plan.blur .top {
+.plans-page .plan.blue .top {
     outline: 3px solid var(--blue-color);
 }.plans-page .plan.orange .top {
     outline: 3px solid var(--orange-color);
